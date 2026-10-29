@@ -1,0 +1,14 @@
+{
+  "_note": "Illustrative example of the JSON structure the LLM must return. NOT used or hard-coded by the app.",
+  "title": "Python Fundamentals in 7 Days",
+  "summary": "A beginner-friendly week covering core Python concepts with daily practice.",
+  "topics": [
+    {"day": 1, "title": "Variables and data types", "objectives": ["Create variables", "Know int, float, str, bool"], "estimated_minutes": 45, "activities": ["Write 5 small assignment programs", "Use type() on different values"]},
+    {"day": 2, "title": "Operators and conditions", "objectives": ["Use arithmetic and comparison operators", "Write if/elif/else"], "estimated_minutes": 45, "activities": ["Build a grade calculator"]},
+    {"day": 3, "title": "Loops", "objectives": ["Use for and while loops", "Use range()"], "estimated_minutes": 45, "activities": ["Print multiplication tables", "Sum numbers with a loop"]},
+    {"day": 4, "title": "Lists and dictionaries", "objectives": ["Store and access collections", "Loop over lists and dicts"], "estimated_minutes": 45, "activities": ["Build a contact book with a dict"]},
+    {"day": 5, "title": "Functions", "objectives": ["Define functions with parameters", "Return values"], "estimated_minutes": 45, "activities": ["Refactor earlier programs into functions"]},
+    {"day": 6, "title": "Practice quiz and revision", "objectives": ["Revise weak areas"], "estimated_minutes": 45, "activities": ["Retake quizzes on weak topics"]},
+    {"day": 7, "title": "Final quiz and review", "objectives": ["Check overall progress"], "estimated_minutes": 45, "activities": ["Mixed quiz", "Mini project"]}
+  ]
+}
